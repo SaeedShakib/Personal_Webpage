@@ -1,0 +1,4 @@
+* {
+    box-sizing: border-box; /* This includes padding and border in the calculation of width and height */
+    border: 1px solid red;
+}
